@@ -1,1 +1,1 @@
-# Matrix_Vector-operations-Simple-extendible-C--Libraray-
+# Matrix_Vector-operations-Simple-extendible-C++ Libraray-
